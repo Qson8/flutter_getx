@@ -1,6 +1,6 @@
 import 'package:flutter_getx/core/provider/provider.dart';
 import 'package:flutter_getx/core/util/value_util.dart';
-import 'package:flutter_getx/locator.dart';
+import 'package:flutter_getx/config/locator.dart';
 import 'package:flutter_getx/models/models.dart';
 import 'package:flutter_getx/services/api/api.dart';
 

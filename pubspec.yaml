@@ -37,6 +37,8 @@ dependencies:
   router_impl:
     path: plugins/router_impl
 
+  get: ^3.25.0
+
 dev_dependencies:
   flutter_test:
     sdk: flutter

@@ -1,7 +1,7 @@
 import 'package:dio/dio.dart';
 import 'package:flutter_getx/config/config.dart';
 import 'package:flutter_getx/core/util/value_util.dart';
-import 'package:flutter_getx/locator.dart';
+import 'package:flutter_getx/config/locator.dart';
 
 abstract class Api {
   /// 获取文章列表

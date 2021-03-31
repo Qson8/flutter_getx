@@ -98,6 +98,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "get",
+      "rootUri": "file:///Users/qson/.pub-cache/hosted/pub.flutter-io.cn/get-3.26.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.9"
+    },
+    {
       "name": "get_it",
       "rootUri": "file:///Users/qson/.pub-cache/hosted/pub.flutter-io.cn/get_it-6.0.0",
       "packageUri": "lib/",
@@ -320,7 +326,7 @@
       "languageVersion": "2.7"
     }
   ],
-  "generated": "2021-03-31T03:47:21.995462Z",
+  "generated": "2021-03-31T06:08:53.265273Z",
   "generator": "pub",
   "generatorVersion": "2.12.1"
 }

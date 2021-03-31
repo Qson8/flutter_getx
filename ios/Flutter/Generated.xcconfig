@@ -1,7 +1,7 @@
 // This is a generated file; do not edit or check into version control.
 FLUTTER_ROOT=/Users/qson/fvm/versions/stable
 FLUTTER_APPLICATION_PATH=/Users/qson/MyWork/flutter/flutter_getx
-FLUTTER_TARGET=/Users/qson/MyWork/flutter/flutter_getx/lib/main.dart
+FLUTTER_TARGET=/Users/qson/MyWork/flutter/flutter_getx/lib/getx/navigator/main.dart
 FLUTTER_BUILD_DIR=build
 SYMROOT=${SOURCE_ROOT}/../build/ios
 FLUTTER_BUILD_NAME=1.0.0

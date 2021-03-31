@@ -50,6 +50,10 @@ flutter_spinkit
 2.12
 file:///Users/qson/.pub-cache/hosted/pub.flutter-io.cn/flutter_spinkit-5.0.0/
 file:///Users/qson/.pub-cache/hosted/pub.flutter-io.cn/flutter_spinkit-5.0.0/lib/
+get
+2.9
+file:///Users/qson/.pub-cache/hosted/pub.flutter-io.cn/get-3.26.0/
+file:///Users/qson/.pub-cache/hosted/pub.flutter-io.cn/get-3.26.0/lib/
 get_it
 2.12
 file:///Users/qson/.pub-cache/hosted/pub.flutter-io.cn/get_it-6.0.0/
@@ -188,8 +192,8 @@ file:///Users/qson/.pub-cache/hosted/pub.flutter-io.cn/video_player_web-0.1.4+1/
 file:///Users/qson/.pub-cache/hosted/pub.flutter-io.cn/video_player_web-0.1.4+1/lib/
 flutter_getx
 2.7
-file:///Users/qson/MyWork/flutter/template_flutter/
-file:///Users/qson/MyWork/flutter/template_flutter/lib/
+file:///Users/qson/MyWork/flutter/flutter_getx/
+file:///Users/qson/MyWork/flutter/flutter_getx/lib/
 sky_engine
 2.12
 file:///Users/qson/fvm/versions/stable/bin/cache/pkg/sky_engine/
@@ -208,6 +212,6 @@ file:///Users/qson/fvm/versions/stable/packages/flutter_web_plugins/
 file:///Users/qson/fvm/versions/stable/packages/flutter_web_plugins/lib/
 router_impl
 2.7
-file:///Users/qson/MyWork/flutter/template_flutter/plugins/router_impl/
-file:///Users/qson/MyWork/flutter/template_flutter/plugins/router_impl/lib/
+file:///Users/qson/MyWork/flutter/flutter_getx/plugins/router_impl/
+file:///Users/qson/MyWork/flutter/flutter_getx/plugins/router_impl/lib/
 2

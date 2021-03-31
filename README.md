@@ -1,6 +1,6 @@
 # flutter_getx
 
-A new Flutter project.
+[getx](https://github.com/jonataslaw/getx)
 
 ## Getting Started
 
