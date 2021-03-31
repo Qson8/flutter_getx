@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_getx/getx/counter/controller.dart';
-import 'package:flutter_getx/getx/counter/counter_page2.dart';
+import 'package:flutter_getx/getx/01.counter/controller.dart';
+import 'package:flutter_getx/getx/01.counter/counter_page2.dart';
 import 'package:get/get.dart';
 
 

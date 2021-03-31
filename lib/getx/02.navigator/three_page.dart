@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_getx/getx/navigator/four_page.dart';
+import 'package:flutter_getx/getx/02.navigator/four_page.dart';
 import 'package:get/get.dart';
 
 class ThreePage extends StatelessWidget {
